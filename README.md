@@ -55,7 +55,7 @@ RBLXValue provides a free public API for MM2 item values.
 ## Links
 
 - 🌐 Website: https://rblxvalue.com
-- 📖 Docs: https://rblxvalue.com/docs
+- 📖 Docs: https://docs.rblxvalue.com
 - 🤖 Bot Invite: https://discord.com/api/oauth2/authorize?client_id=1514378630225203391&permissions=277026875392&scope=bot%20applications.commands
 - 💬 Discord: https://discord.com/invite/2puhtMjdnw
 - 📬 Contact: https://rblxvalue.com/contact
